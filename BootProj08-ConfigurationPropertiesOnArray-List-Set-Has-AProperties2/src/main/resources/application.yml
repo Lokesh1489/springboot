@@ -1,0 +1,19 @@
+org:
+  softtek:
+    company:
+      addrs: bangalore
+      id: 1234
+      name: Softtek
+      size: 600
+    ename: lokie
+    eno: 101
+    fav-colors:
+    - red
+    - green
+    - blue
+    id-details:
+      addharid: AA4459876543NL
+      passportno: IND09876543
+      voterid: BA4567890
+    nick-names: bunty,chintu,chotu
+    phone-numbers: 9999999,23456789,23456789

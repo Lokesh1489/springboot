@@ -1,0 +1,6 @@
+cust:
+  info:
+    cust-no: 101
+    cust-name: Loki
+    cust-addrs: sfghjk
+    bill-amt: 120
